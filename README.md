@@ -2,7 +2,7 @@
 
 ### About Me
 
-```
+```json
 {
   "name" : "Ramneek Riar",
   "pronouns" : "she/her",
