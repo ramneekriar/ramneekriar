@@ -18,7 +18,7 @@
 - 📖 Currently Reading: Just for the Summer by Abby Jiminez
 
 ### 📈 My Stats
-<div align="left">
+<div align="center">
     <img height="200" src="https://streak-stats.demolab.com?user=ramneekriar&theme=dracula"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramneekriar&layout=compact&theme=dracula"/>
