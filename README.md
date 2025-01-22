@@ -19,9 +19,9 @@
 
 ### 📈 My Stats
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ramneekriar&hide=contribs,prs&theme=material-palenight&show_icons=true"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ramneekriar&hide=contribs,prs&theme=dracula&show_icons=true"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramneekriar&layout=compact&theme=material-palenight"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramneekriar&layout=compact&theme=dracula"/>
 </div>
 
 
