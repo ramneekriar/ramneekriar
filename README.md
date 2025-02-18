@@ -14,7 +14,6 @@
 
 ### What I'm up to
 - 🌱 Learning: I'm currently learning more about AI, machine learning models and also practicing DSA
-- 🔭 Working On: Building an AI tool which helps you practice for your upcoming behavioural interviews
 - 📖 Currently Reading: Just for the Summer by Abby Jiminez
 
 ### 📈 My Stats
